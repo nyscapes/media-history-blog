@@ -1,6 +1,6 @@
 ---
-Title: Kate's First Post
-Author: kjl411
+title: Kate's First Post
+author: kjl411
 ---
 
 This is my **first** post! Learning how to type _italics_ and other fun stuff, since I've never used **Atom** before!
