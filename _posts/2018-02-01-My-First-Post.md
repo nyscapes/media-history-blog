@@ -1,12 +1,10 @@
 ---
-Title: My First Post
-Author: mck426
+title: My First Blog
+author: tmp365
 ---
 
-_Hi!_
+_I am trying this for the first time and I'm so nervous!_
 
-here is NYU's website: [www.NYU.edu](http://nyu.edu)
+this is the link to [my university's page](http://nyu.edu)
 
-**matt**
-
-![matt](https://i.imgur.com/on13yJU.jpg)
+![people in world war II](https://i.imgur.com/ItBpFbW.jpg)
