@@ -1,6 +1,6 @@
 ---
-Title: My First Post
-Author: mck426
+title: My First Post
+author: mck426
 ---
 
 _Hi!_
