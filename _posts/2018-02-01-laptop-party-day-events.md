@@ -8,7 +8,7 @@ We’ve got a lot to do today:
 * GitHub
   * Join the team
   * Check for write access to the blog
-  * Copy the repository ssh address: `git@github.com:nyscapes/media-history-blog.git`
+  * Copy the repository ssh address: `https://github.com/nyscapes/media-history-blog.git`
 * Git
   * What is git?
 * Atom
