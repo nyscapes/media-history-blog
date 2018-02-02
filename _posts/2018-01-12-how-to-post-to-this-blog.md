@@ -30,12 +30,13 @@ Next, the file’s name has to follow a very specific format:
 
 `2018-nn-mm-some-title-here.md`
 
-The `nn` is the month, with a zero, and the `mm` is the day, with a zero. The
-rest is words separated by hyphens that identify the file. The last part, the
-`.md`, lets the computer know that you’re typing a Markdown file. In order to
-create this file, then, you click on the `_posts` folder like in the picture,
-so that it’s highlighted, and then type the letter `a`. A little box should
-show up that asks you to enter the name, so you type something like:
+The `nn` is the month, with a zero, and the `mm` is the day, with a zero. Then
+you need a hyphen between the data and the rest, which is words separated by
+hyphens that identify the file. The last part, the `.md`, lets the computer
+know that you’re typing a Markdown file. In order to create this file, then,
+you click on the `_posts` folder like in the picture, so that it’s
+highlighted, and then type the letter `a`. A little box should show up that
+asks you to enter the name, so you type something like:
 
 `_posts/2018-nn-mm-some-title-here.md`
 
@@ -52,9 +53,10 @@ author: mds17
 ```
 
 Where it says `title:`, you can replace my title with your own. And you should
-also change `author:` to your NYU netid. Remember that this is four lines,
-meaning you need that `---` on the top and `---` on the bottom. Of course, you
-can always look at other posts in the `_posts` folder—like this one—for tips.
+also change `author:` to your NYU netid. Note that both “title” and “author”
+are in lowercase. Also remember that this is four lines, meaning you need that
+`---` on the top and `---` on the bottom. Of course, you can always look at
+other posts in the `_posts` folder—like this one—for tips.
 
 Next is that tricky part of filling in the content with your thoughts.
 
