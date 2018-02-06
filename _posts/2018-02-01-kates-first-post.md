@@ -7,7 +7,7 @@ This is my **first** post! Learning how to type _italics_ and other fun stuff, s
 ## About Me
 
 
-I'm currently a student in [Steinhardt](https://steinhardt.nyu.edu) and studying Media, Culture, Communications, as well as Food Studies. 
+I'm currently a student in [Steinhardt](https://steinhardt.nyu.edu) and studying Media, Culture, Communications, as well as Food Studies.
 
 
 ![It's me!](https://i.imgur.com/uNAWDqS.png)
