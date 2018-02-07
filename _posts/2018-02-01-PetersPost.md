@@ -1,6 +1,6 @@
 ---
 title: Peter's First Post
-author:pet234
+author: pet234
 ---
 
 _yo yo_
