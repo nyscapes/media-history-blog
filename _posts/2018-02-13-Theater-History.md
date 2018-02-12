@@ -1,5 +1,5 @@
 ---
-title: Theater History
+title:Theater History
 author:abg447
 ---
 Right away, I wish we had gotten some more background about _A Glance at New York (1848)_. It’s introduction tells us how it was “one of the greatest successes ever known in the history of the New York stage” and how it “brought pandemonium to the pit and the gallery for four months”. Yet we never find out why it was so successful for it’s time or what kind of pandemonium it caused. Now, knowing about the Astor Place Riot, I assume this play caused some kind of tension between the working class and the wealthy, but we’re just left to fill in the gaps.
