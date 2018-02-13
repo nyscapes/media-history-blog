@@ -1,6 +1,6 @@
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
 ---
 
 Hopefully, by the time you read this post, you’ll already be familiar with
@@ -48,7 +48,7 @@ the first four lines:
 ```
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
 ---
 ```
 
@@ -60,7 +60,7 @@ other posts in the `_posts` folder—like this one—for tips.
 
 Next is that tricky part of filling in the content with your thoughts.
 
-When you’re done, you save-stage-commit-push. But, as always, you can save as
+When you’re done, you pull from github and then save-stage-commit-push. But, as always, you can save as
 much as you want before you stage-commit, and commit as much as you want
 before you push. But you should typically only push once—when you like what
 you’ve got.
