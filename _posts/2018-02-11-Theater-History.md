@@ -1,6 +1,6 @@
 ---
-title: Theater History
-author: abg447
+title:Theater History
+author:abg447
 ---
 Right away, I wish we had gotten some more background
 about _A Glance at New York_ (1848). It’s
