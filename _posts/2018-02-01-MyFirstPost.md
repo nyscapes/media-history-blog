@@ -1,6 +1,6 @@
 ---
-Title: My First Post
-Author: bg1506
+title: My First Post
+author: bg1506
 ---
 
 I'm trying this out. I love _italics_ and I also love **bold**.
