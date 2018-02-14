@@ -4,6 +4,7 @@ author: mds17
 redirect_from: /2018/01/12/how-to-post-to-this-blog.html
 permalink: /how-to-post-to-this-blog
 layout: post
+date: 2018-01-12
 ---
 
 Hopefully, by the time you read this post, you’ll already be familiar with

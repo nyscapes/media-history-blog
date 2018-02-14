@@ -4,6 +4,7 @@ author: mds17
 redirect_from: /2018/02/10/adding-images-video-sound.html
 permalink: /adding-images-video-and-sound
 layout: post
+date: 2018-02-10
 ---
 
 Markdown deals with text. But we want our posts to be multimodal. How to add
