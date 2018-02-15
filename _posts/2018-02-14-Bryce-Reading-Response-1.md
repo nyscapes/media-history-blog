@@ -2,6 +2,7 @@
 title: Reading Response #1
 author: bg1506
 ---
+
 Sante's _Streets_ opens in discussing quite how the streets of New York have changed over time. The streets started as narrow cobblestone streets with large pedestrian sidewalks. It's interesting to note that cobblestones were somewhat of a nuisance  during their time, with Edgar Allen Poe complaining that "a more ingenious contrivance for driving men mad through sheer noise, was undoubtedly never invented," (Sante, 47). In modern times, cobblestone streets are often seen as idyllic, reflecting back to a simpler time, and often romanticized as a happier time. The cobblestone streets still preserved in the West Village, or even Greene Street on NYU's campus, are seen as beautiful and nostalgia producing. But, from the rest of Sante's chapter on the New York streets, we see that the 19th century streets were anything but these positive connotations modern day people hold to cobblestone streets.
 
 ![Greene Street on NYU Campus ](https://i.imgur.com/A2bEQT1.jpg)

@@ -2,6 +2,7 @@
 title: Eddy's Response to New York by Gas GasLight
 author: elh365
 ---
+
 _New York by Gaslight_ highlights the different aspects of New York during the 1840s, more specifically how Broadway and the theaters and oyster-cellars that occupied the area operated and the wonder of Mose and Lize in the scheme of the average American lifestyle.
 
 The streets of Broadway are busy and full of life. With everyone being lively during the night, one can imagine the changes from how life was before and now. There is still drunk people that line the streets of New York City during the night, but it seemed more out of order back then. Debauchery was of the utmost importance in the middle of the night for people with bars, concert rooms and sex rooms for everyone to partake. The idea of class is lessened when everyone is partaking the same space, performing the same actions for an enjoyment of time instead of working the day away. However, there is a clear sense of a day ending whenever the buses would go around and pick people up to drive them to their destination.
