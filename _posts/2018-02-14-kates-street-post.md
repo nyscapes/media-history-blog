@@ -1,5 +1,7 @@
+---
 title: The Streets of NYC
 author: kjl411
+---
 
 After reading Sante’s “Streets”, I began to notice the stark differences between New York’s urban planning when compared to that of European cities. How does the construction and urban planning of New York streets impact the ways in which citizens interact with it? Our lack of wide boulevards and grand plazas is interesting—New York truly is a city that focuses on fitting as many people in one space as possible. American cities, especially those on the East Coast, tend to be more cramped feeling. Our buildings touch up right next to each other, large sky rises are inevitable, and side streets grow increasingly narrow. During my semester abroad in London, the entire city was spaciously planned out with gardens and parks, sweeping boulevards and public spaces. Property was more expensive because of this more formal, luxurious feel built out between streets. Even the NYC streets themselves were crammed, full of pedestrian traffic and vendors bustling up and down the road.
 
