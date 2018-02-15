@@ -1,10 +1,14 @@
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
+redirect_from: /2018/01/12/how-to-post-to-this-blog.html
+permalink: /how-to-post-to-this-blog
+layout: post
+date: 2018-01-12
 ---
 
 Hopefully, by the time you read this post, you’ll already be familiar with
-Markdown, [Atom](http://atom.io), Git, and [GitHub](http://github.com). You’ll
+Markdown, [Atom](http://atom.io), Git, &  [GitHub](http://github.com). You’ll
 also have a GitHub account, you’ll be added to the [NewYorkScapes GitHub
 group](http://github.com/nyscapes), and you’ll have posting privileges to this
 blog.
@@ -48,7 +52,7 @@ the first four lines:
 ```
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
 ---
 ```
 
@@ -60,7 +64,7 @@ other posts in the `_posts` folder—like this one—for tips.
 
 Next is that tricky part of filling in the content with your thoughts.
 
-When you’re done, you save-stage-commit-push. But, as always, you can save as
+When you’re done, you pull from github and then save-stage-commit-push. But, as always, you can save as
 much as you want before you stage-commit, and commit as much as you want
 before you push. But you should typically only push once—when you like what
 you’ve got.
