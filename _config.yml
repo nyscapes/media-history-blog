@@ -2,6 +2,9 @@ baseurl: /media-history-blog
 name: A Media History Blog from NYU
 markdown: kramdown
 highlighter: rouge
+include: ["_pages"]
+gems:
+  - jekyll-redirect-from
 defaults: 
   -
     scope: 
