@@ -1,6 +1,10 @@
 ---
 title: Markdown Cheat Sheet
 author: mds17 
+redirect_from: /2018/01/31/markdown-cheat-sheet.html
+permalink: /markdown-cheat-sheet
+layout: post
+date: 2018-01-31
 ---
 
 You should write your blog posts in Markdown and get in the habit of using it.
