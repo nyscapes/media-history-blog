@@ -1,5 +1,5 @@
 ---
-title: Response 2 - Christiana Collins
+title: Group D Blog 2
 author: cc4815
 ---
 
