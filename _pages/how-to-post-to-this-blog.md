@@ -1,10 +1,14 @@
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
+redirect_from: /2018/01/12/how-to-post-to-this-blog.html
+permalink: /how-to-post-to-this-blog
+layout: post
+date: 2018-01-12
 ---
 
 Hopefully, by the time you read this post, you’ll already be familiar with
-Markdown, [Atom](http://atom.io), Git, and [GitHub](http://github.com). You’ll
+Markdown, [Atom](http://atom.io), Git, &  [GitHub](http://github.com). You’ll
 also have a GitHub account, you’ll be added to the [NewYorkScapes GitHub
 group](http://github.com/nyscapes), and you’ll have posting privileges to this
 blog.
@@ -30,12 +34,13 @@ Next, the file’s name has to follow a very specific format:
 
 `2018-nn-mm-some-title-here.md`
 
-The `nn` is the month, with a zero, and the `mm` is the day, with a zero. The
-rest is words separated by hyphens that identify the file. The last part, the
-`.md`, lets the computer know that you’re typing a Markdown file. In order to
-create this file, then, you click on the `_posts` folder like in the picture,
-so that it’s highlighted, and then type the letter `a`. A little box should
-show up that asks you to enter the name, so you type something like:
+The `nn` is the month, with a zero, and the `mm` is the day, with a zero. Then
+you need a hyphen between the data and the rest, which is words separated by
+hyphens that identify the file. The last part, the `.md`, lets the computer
+know that you’re typing a Markdown file. In order to create this file, then,
+you click on the `_posts` folder like in the picture, so that it’s
+highlighted, and then type the letter `a`. A little box should show up that
+asks you to enter the name, so you type something like:
 
 `_posts/2018-nn-mm-some-title-here.md`
 
@@ -47,18 +52,19 @@ the first four lines:
 ```
 ---
 title: How to Post to this Blog
-author: mds17 
+author: mds17
 ---
 ```
 
 Where it says `title:`, you can replace my title with your own. And you should
-also change `author:` to your NYU netid. Remember that this is four lines,
-meaning you need that `---` on the top and `---` on the bottom. Of course, you
-can always look at other posts in the `_posts` folder—like this one—for tips.
+also change `author:` to your NYU netid. Note that both “title” and “author”
+are in lowercase. Also remember that this is four lines, meaning you need that
+`---` on the top and `---` on the bottom. Of course, you can always look at
+other posts in the `_posts` folder—like this one—for tips.
 
 Next is that tricky part of filling in the content with your thoughts.
 
-When you’re done, you save-stage-commit-push. But, as always, you can save as
+When you’re done, you pull from github and then save-stage-commit-push. But, as always, you can save as
 much as you want before you stage-commit, and commit as much as you want
 before you push. But you should typically only push once—when you like what
 you’ve got.
