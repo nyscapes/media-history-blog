@@ -1,0 +1,16 @@
+---
+title: Eddy's Response to New York by Gas GasLight
+author: elh365
+---
+
+_New York by Gaslight_ highlights the different aspects of New York during the 1840s, more specifically how Broadway and the theaters and oyster-cellars that occupied the area operated and the wonder of Mose and Lize in the scheme of the average American lifestyle.
+
+The streets of Broadway are busy and full of life. With everyone being lively during the night, one can imagine the changes from how life was before and now. There is still drunk people that line the streets of New York City during the night, but it seemed more out of order back then. Debauchery was of the utmost importance in the middle of the night for people with bars, concert rooms and sex rooms for everyone to partake. The idea of class is lessened when everyone is partaking the same space, performing the same actions for an enjoyment of time instead of working the day away. However, there is a clear sense of a day ending whenever the buses would go around and pick people up to drive them to their destination.
+
+New York City thrived with many different theaters and forms of amusement that there was no way to not find an activity to do. However, with each theater, one must not forget the mutability of the city. The area would always change and did not have to stay the same, allowing for the same areas to have different histories within different constructed spaces. With each theater and club, representation was given to the people that needed it. Men and women could hang out with people that they related to, forming a community within each form of entertainment. Class differences allowed for people to stay in their comfort zone and did not have to mingle with people of a lower or higher stature than themselves.
+
+Mose and Lize are the personification of the normal American New York life of the men and women that inhabited the streets of Lower Manhattan during the late 1840s. They are the middlemen and middle women that anyone can gravitate too. They are not lower class enough to be looked down upon by the public, but also do not belong to a higher class so that an audience member in the theater could not relate. Even though the idea of Mose and Lize started in the 1840s, their legacy has continued into modern day entertainment. Looking at American television media today, the tropes that are portrayed by Mose and Lize were the beginnings of the standard American family sitcom
+
+The sitcom is a type of television genre that stands for “situation comedy”, having recurring characters go through different predicaments for the entertainment of the audience. Mose and Lize started their adventures in Benjamin Baker’s “A Glance at New York”, at first confusing the audience members because the high arts were not celebrated anymore; a reflection of the average men and women of the time were given to the audience and allowed for a chance to look at themselves from a perspective that was given to them
+
+The character archetypes that are portrayed through Mose and Lize were relatable, allowing for anyone to watch and enjoy the antics that performed on the stage. Mose and Lize show representation and are looked at as the ideal American working class. They show resilience and are able to work through their hardships.
