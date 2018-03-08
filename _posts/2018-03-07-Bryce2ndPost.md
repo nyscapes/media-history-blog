@@ -1,5 +1,5 @@
 ---
-title: Bryce Goyer Dérive 1
+title: Bryce Goyer Second Reading Post
 author: bg1506
 ---
 #Critiques and Support of Coltrane's "Avant-Garde" Jazz
@@ -10,4 +10,4 @@ I thought that Tynan’s piece in “Take 5” did the best job really explainin
 
 I also enjoyed the fact that we were able to see the other side of this discussion, that we could read Coltrane and Dolphy’s response to this critiques. They don’t seem particularly angry at the critical responses their music has gotten. The most resounding takeaway of their response is that they’re not trying to revolutionize the jazz genre, they’re just simply playing what they enjoy. They also wish that the critics would try to understand what they’re writing about, and if they can’t understand it, talk to someone who does. Coltrane believes that this search for understanding is essential to criticism and music. It’s this universal theme of understanding that Coltrane leaves us on, essentially connecting criticism with music. I was shocked that after the passionate criticism leveled on Coltrane’s music, he can view it all with such a positive outlook.
 
-I really enjoyed looking at both sides of this new wave of “anti-Jazz”. It helped flush out this style of music more, understand how it was different from earlier jazz, as well as where it was coming from. 
+I really enjoyed looking at both sides of this new wave of “anti-Jazz”. It helped flush out this style of music more, understand how it was different from earlier jazz, as well as where it was coming from.
