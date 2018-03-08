@@ -3,7 +3,7 @@ title: Jesus's Response to _Ascension_
 author: jxs207
 ---
 
-While reading the excerpts from Eric Nisenson’s _Ascension_, I found myself drawn to the instances that revealed the backbone or logistics of the jazz music business. Perhaps my fascination with these elements has to do with my field of study or because my grasp of jazz music techniques (and attraction to the genre) is not large. Therefore, I gravitated to the revelations of social (and perhaps economic) conditions influencing the musician’s style and artistry.
+While reading the excerpts from Eric Nisenson’s _Ascension_, I found myself drawn to the instances that revealed the backbone or logistics of the jazz music business. Perhaps my fascination with these elements has to do with my field of study or because my grasp of jazz music techniques (and attraction to the genre) is not large. Therefore, I gravitated to the revelations of social (and perhaps economic) conditions influencing a musician’s style and artistry.
 
 For example, Nisenson reveals that Miles Davis had a deep understanding of his audience and what they expected from him and his group. Miles had to shut down Coltrane’s solo during a performance of “Walkin” when the group was on a European tour. Nisenson notes that Coltrane’s playing was “so adventurous that it [bordered] on the outrageous” (83). Although Miles, as Nisenson puts it, “had always been an experimenter…he would let the limits of his art be pushed only so far and no further” (83).
 
