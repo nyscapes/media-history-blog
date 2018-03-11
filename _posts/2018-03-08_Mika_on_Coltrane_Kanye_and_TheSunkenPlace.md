@@ -1,5 +1,6 @@
 ---
 title: Seen, Heard, and Sinking
+author: mas1342
 ---
 # Seen, Heard, and Sinking
 ## Erasing Black Humanity with Black Cool
