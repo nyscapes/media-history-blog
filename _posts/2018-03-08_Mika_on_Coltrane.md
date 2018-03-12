@@ -3,7 +3,7 @@ title: Seen, Heard, and Sinking
 author: mas1342
 ---
 # Seen, Heard, and Sinking
-## Erasing Black Humanity with Black Cool
+## Erasing Black Humanity with Black Cool 
 ![GetOut](https://i.imgur.com/wQU1ITh.jpg)  
 
 The powerful kind of art is the type that can define something honestly felt in the world that was previously unarticulated. Watching _Get Out_ in the theater last year left my mind racing in loops around the concept of the “sunken place” and how prevalent this distance from self has always been a hole that those of African decent in America have had to climb out of. So much, too much, of black art in America is a call to be seen and heard as human beings. The volatility of that yearning is what fueled the creation of the only two original forms of music and dance to be born in America: Jazz and Hip-Hop. I’ve particularly enjoyed the Coltrane centered readings, as well as the Baldwin short story, because they have taken me back to the concept of “Black Cool.”
