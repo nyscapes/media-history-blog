@@ -4,7 +4,7 @@ author: mas1342
 ---
 # Seen, Heard, and Sinking
 ## Erasing Black Humanity with Black Cool
-![GetOut](https://i.imgur.com/wQU1ITh.jpg)
+![GetOut](https://i.imgur.com/wQU1ITh.jpg)  
 
 The powerful kind of art is the type that can define something honestly felt in the world that was previously unarticulated. Watching _Get Out_ in the theater last year left my mind racing in loops around the concept of the “sunken place” and how prevalent this distance from self has always been a hole that those of African decent in America have had to climb out of. So much, too much, of black art in America is a call to be seen and heard as human beings. The volatility of that yearning is what fueled the creation of the only two original forms of music and dance to be born in America: Jazz and Hip-Hop. I’ve particularly enjoyed the Coltrane centered readings, as well as the Baldwin short story, because they have taken me back to the concept of “Black Cool.”
 
@@ -34,7 +34,7 @@ The type of nigga swear he real but all around him's fake
 Cole echoes a critique that many share, which is that Kanye's fame has deterred his art, that he's lost his way.  But they, much like Coltrane’s fans and critics, fail to see that there have always been cracks in the mask of that black bravado. Those fault lines are the scars that scream out “I’m human too.” Coltrane’s gentle detachment from his haters and Kanye’s fever dream rants toward them are born of the same desire to be seen as the complicated sum of who they are, not just an entertainer.
 
 But it’s hard for Americans to see those bearing the badge of black cool as anything but super-heroic. After seeing _Get Out_ I split my sides laughing at the memes and Internet commentary focused on the film’s plot and the concept of  “the sunken place” until I saw this one:
-![SunkYeezy](https://i.imgur.com/9IOPPQD.jpg)
+![SunkYeezy](https://i.imgur.com/9IOPPQD.jpg)   
 
 Maybe Kanye, in his beautiful struggle to be heard, has strayed from man we once knew—but that’s what makes him human. Those that were disappointed by _Life of Pablo_ probably didn’t hear his strangled cry on “FML” about flipping out on Lexipro or feel his plea for liberation on "Father Stretch My Hands."" I’ve lost too many of my favorite artists to the trappings of fame, and if Coltrane was alive during this time period I wonder if he could handle the limelight that dehumanizes too many artists. I wonder if his fans would be so quick to abandon him too. Kendrick Lamar, a premier arbiter of black cool these days, wonders if the people will be as unforgiving of the mistakes he’ll inevitably make asking:
 >![Kenny](https://i.imgur.com/Xr4QxQJ.jpg)
