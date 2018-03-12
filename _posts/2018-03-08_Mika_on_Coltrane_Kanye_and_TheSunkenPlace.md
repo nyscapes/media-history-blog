@@ -34,7 +34,7 @@ The type of nigga swear he real but all around him's fake
 Cole echoes a critique that many share, which is that Kanye's fame has deterred his art, that he's lost his way.  But they, much like Coltrane’s fans and critics, fail to see that there have always been cracks in the mask of that black bravado. Those fault lines are the scars that scream out “I’m human too.” Coltrane’s gentle detachment from his haters and Kanye’s fever dream rants toward them are born of the same desire to be seen as the complicated sum of who they are, not just an entertainer.
 
 But it’s hard for Americans to see those bearing the badge of black cool as anything but super-heroic. After seeing _Get Out_ I split my sides laughing at the memes and Internet commentary focused on the film’s plot and the concept of  “the sunken place” until I saw this one:
-![SunkYeezy](https://i.imgur.com/9IOPPQD.jpg)
+![SunkYeezy](https://i.imgur.com/9IOPPQD.jpg)   
 
 Maybe Kanye, in his beautiful struggle to be heard, has strayed from man we once knew—but that’s what makes him human. Those that were disappointed by _Life of Pablo_ probably didn’t hear his strangled cry on “FML” about flipping out on Lexipro or feel his plea for liberation on "Father Stretch My Hands."" I’ve lost too many of my favorite artists to the trappings of fame, and if Coltrane was alive during this time period I wonder if he could handle the limelight that dehumanizes too many artists. I wonder if his fans would be so quick to abandon him too. Kendrick Lamar, a premier arbiter of black cool these days, wonders if the people will be as unforgiving of the mistakes he’ll inevitably make asking:
 >![Kenny](https://i.imgur.com/Xr4QxQJ.jpg)
