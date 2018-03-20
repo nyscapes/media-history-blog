@@ -1,5 +1,5 @@
 ---
-title: Sara's Post: Poetry and East Village
+title: "Sara's Post: Poetry and East Village"
 author: sm6381
 ---
 The poem "Puerto Rican Obituary" by Pedro Pietri is a heart-rending look at the experience of Puerto Ricans in New York City.
