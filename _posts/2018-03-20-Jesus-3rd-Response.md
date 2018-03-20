@@ -1,3 +1,7 @@
+---
+title: "Jesus's Response to Downtown 81"
+author: jxs207
+---
 I wasn’t sure what to expect from _Downtown 81_. I went into it thinking that it was strictly a documentary, and while it was a documentary of sorts that captured the downtown art scene of New York in the 80s, it was crafted more as a film with a narrative (if one could call it that). In the forward of _The Downtown Book: The New York Art Scene 1974-1984_, Lynn Gumpert claims that in the mid-seventies, narrative in art was making a comeback, triggering “a major shift in the history of avant-garde filmmaking” (11). I see _Downtown 81_’s ambition to tell a story, however thin it might be, as evidence of narrative’s resurgence.
 
 Immediately, a narrator in voiceover admits that the following story isn’t true but not entirely false either, claiming that “Any resemblance between the characters depicted here and reality is purely magical” (0:01:16). This opening scene prepares us for a crumbling of the borders separating art and reality. This revelation posits a series of questions: what role does authenticity and identity play in art? Is the nature of identity purely performative? What is “real” and what is “fake” and is there ever truly a separation between the two?
