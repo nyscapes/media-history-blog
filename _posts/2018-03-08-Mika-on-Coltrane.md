@@ -2,6 +2,7 @@
 title: Seen, Heard, and Sinking
 author: mas1342
 ---
+
 # Seen, Heard, and Sinking
 ## Erasing Black Humanity with Black Cool
 ![GetOut](https://i.imgur.com/wQU1ITh.jpg)   
