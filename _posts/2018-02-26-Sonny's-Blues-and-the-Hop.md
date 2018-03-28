@@ -1,5 +1,7 @@
+---
 title: Sonny's Blues and The Hop
 author: ltm276
+---
 
 At first, Sonny’s Blues seems to be a story that is merely about two brothers, and their immense amount of hardship and differences; however, the story is about far more than just that. It is about life itself, and the suffering it may bring about. Even more, it is about the culture of Harlem, and how that culture affects it’s people.
 From the start, readers are aware that something bad has happened to the narrator’s brother, Sonny. Once the narrator begins to further explain the details of his setting, we are forced to believe that what happened to Sonny is partly a result of where and how he grew up. When we are told of the boys playing at school, we cannot help but relate them to a young Sonny. When we read, “it was not the joyous laughter which-God knows why-one associates with children. It was mocking and insular, its intent was to denigrate,” we automatically conclude that there is a high chance that the boys playing in the schoolyard will, too, end up like Sonny. (328)
