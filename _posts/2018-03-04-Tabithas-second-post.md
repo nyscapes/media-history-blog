@@ -1,4 +1,8 @@
-#Transgressing and The Village Vanguard:
+---
+title: Transgressing and The Village Vanguard
+author: tmp365
+---
+
 ## Josh, Leadbelly, Woody Guthrie, and The Blues
 
 This whole chapter consisted mostly of a letter from Woody Guthrie to the people
@@ -10,4 +14,5 @@ Also adding, the past hardships that African Americans been through, that their 
 history as a whole. This line grabbed my attention because it brings this saying I've heard before
 called the black experience in America and it being expressed through music. Reading Gurthire's letter, it seemed to me, what bridges the black experience in America and Blues is confinement.  when he states below:
 ![Village Vanguard](https://i.imgur.com/MWbFtWV.jpg)
+
 Also I have a question, were White and Leadbelly were one of the first or at least the most popular to bring blues to lower Manhattan?
