@@ -1,5 +1,5 @@
 ---
-title: Yerba Buena Poetry
+title: "Yerba Buena" Poetry
 author: kjl411
 ---
 
