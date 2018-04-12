@@ -1,5 +1,5 @@
 ---
-title: Sara's Post: Poetry and East Village
+title: "Sara's Post: Poetry and East Village"
 author: sm6381
 ---
 The poem "Puerto Rican Obituary" by Pedro Pietri is a heart-rending look at the experience of Puerto Ricans in New York City.
@@ -21,7 +21,7 @@ The phrase, meaning “how are you?” is casual but within the context it is be
 
 _Refrences_
 
-After reading the poem, my most immediate connection was the Paul Simon song “Adios Hermanos.” I looked into the lyrics further, and according to [this article] (https://www.theatlantic.com/entertainment/archive/2011/10/paul-simons-5-most-underrated-songs/246643/) from _The Atlantic_ , the song is part of an album Simon wrote for a short running Boradyway musical. The subject of the song, Salvador Agron, was convicted for killing two teens in 1959.
+After reading the poem, my most immediate connection was the Paul Simon song “Adios Hermanos.” I looked into the lyrics further, and according to [this article](https://www.theatlantic.com/entertainment/archive/2011/10/paul-simons-5-most-underrated-songs/246643/) from _The Atlantic_ , the song is part of an album Simon wrote for a short running Boradyway musical. The subject of the song, Salvador Agron, was convicted for killing two teens in 1959.
 
 The subject of the song is obviously tragic, despite of or because of the guilt of Agron. Simon makes use of the slurs hurled at Puerto Ricans, which Pietri likewise makes sure to include.
 
