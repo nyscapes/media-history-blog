@@ -1,0 +1,9 @@
+---
+title: Yerba Buena and the City's Toll
+author: sm6381
+---
+I think the pervasive notion of these poems by Sandra Maria Esteves is ultimately the idea that the city takes its toll on the bodies of those who make it run. The workers, and the immigrants, and the "unnoticed." I noticed, particularly in the poem “Capital,” a number of similarities in theme to the poem by Pietri. Pietri writes the line — which I believe I wrote about briefly in my last post — "they worked 10 days but were only paid for five." Similarly the lines in the poem “Capital,” "the officials/ who forever rip us off/ and charge us rent/ for being born" follow a related logic. Those who work hard who have to _pay_ for their very existence within the confines of the city, are taxed – mentally, physically.
+
+Another common thread throughout the poems was the grey-ness of the city. I think that the perspective on the city is particularly interesting because it makes the buildings seeming looming or threatening. I would compare this watchfulness to the reading from Colson Whitehead in _Colossus of New York._ In that passage of text, the buildings - or perhaps more accurately- the city as a whole sees the New Yorker. But in WHitehead's version of New York, the watchfulness is welcome. There is a comfort in the knowing nature of the buildings. "The city knows you best because it saw you when you were alone." In Yerba Buena, the buildings are sinister. They seem to surveil the author, the inhabitants.
+
+In the poem "Manhattan," Esteves describes the setting of the city viscerally. The imagery of death is pervasive. Esteves writes of the "grey worlds" and their stinking, bleak state. "Manhattan" is a scathing perspective on the grind of the city; the author essentially accuses it of being soul-sucking, money-thirsty, and ultiatmely deadly. "Blood today for souls tomorrow.""
