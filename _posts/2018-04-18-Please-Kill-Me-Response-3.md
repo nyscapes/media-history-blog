@@ -1,5 +1,5 @@
 ---
-title: Response 2 - Ava Solina
+title: Response 3 - Ava Solina
 author: ans614
 ---
 Even though *Please Kill Me* is frequently focused on a different era of music and life than we know today, I am always fascinated by the similarities between now and then, and how popular cultural themes and concepts have carried over in one way or another. Even though styles change (sometimes), and music and other entertainment forms evolve, parts of them persist over time. I found this particularly evident in chapter 22, when Danny Fields was discussing how he came to be manager of the Ramones. He states that when he introduced himself to the Ramones, he said, “I love you so much. I’ll be your manager.” (McNeil & McCain, 224). This seemed a bit fan girlish to me, but it also reminded me of the type of culture we have subscribed to today in regards to certain artists. In response to Fields saying that he’d be their new manager, the Ramones said, “Oh, good, we need a new drum set. Do you have money?” (McNeil & McCain, 224), hinting at the fact that they just needed money, not another person lusting after them and their image. Fields said that he asked his mother for three thousand dollars and she gave it right to him and that’s how he started managing the Ramones- he bought his way into being their manager.
