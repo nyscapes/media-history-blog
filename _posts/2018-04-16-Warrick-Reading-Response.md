@@ -1,0 +1,15 @@
+---
+title: The Past Through a Smeared Window
+author: bw1121
+---
+Well, this is a broad amount of information and time to cover. Between the Sante readings and the Blank City viewing, there’s almost too much to talk about. What I find interesting about this pairing is that it combines the self-propagated mythological aspects of the city that we’ve already discussed with the rooted history specificity that offers an interesting contrast.
+
+As far as Blank City goes, it definitely fits into the propagation of mythology and allure around the city but without totally glorifying the grittiest aspects. While on one hand it revels in the fact that “the only people that wanted to come to New York were freaks…”, it doesn’t ignored the fact that half of the Lower East Side was in rubble and the city in the 70s was on veritably bankrupt. It’s fascinating (or is it?) that this movement of artists and filmmakers flourished in one of the worst infrastructural and economical periods in the city’s modern history.
+
+Beyond that, there’s the mind-boggling aspects that hit close to home for the current New Yorkers. They talk about “$50 a month rent” and finagling a huge loft from a random landlord like it was nothing. Certainly the grime and the art went hand in hand. On top of that, the interviewees seem have gotten a totally different avenue of access than how people would likely describe the scene. Back then, they were right on top of all of the popular artists of the times and they were struggling all the same as the rest. Now it seems like there is a barrier between the “cool and cultural” and the average New Yorker.
+
+I think the title of Blank City alone is provocative and interesting on to itself. The idea of a blank template on which the inhabitants paint their experiences and form their identities, in tandem with the city, is what I draw from it. It’s a city that’s yours, or anyone’s, for the taking. Perhaps that’s the perpetual dream of New York, however far-fetched or inaccessible it might increasingly feel.
+
+That particular idea harkens towards some of the rhetoric that Sante engages in. What is the so -called “melting pot” that we describe New York? Is it the necessary struggle that ultimately leads, at least in promise, to eventually become an “average American” as Sante puts it. But once you’re “average”, do you still contribute to the melting pot? There seems to be an inherent sacrifice that goes along with it. As Sante refers to the poor neighborhoods as both literal and figurative “tinder-boxes”, so as much as they might be prone to spark a flame of diverse creative and inter-sectionalism, might be just as likely to actually burst into a raging tenement fire.
+
+Just to a point of well-crafted prose, some of Sante’s points on “night” are beautifully taken. The concepts that “the past can be seen as if through a smeared window” or that “the night is the corridor of history” are just fun to think about. The night and a smeared window evoke the obscurity that history will always be entrenched in, and seemingly the closer we get to documented truth, the further we get from tangible veracity.
